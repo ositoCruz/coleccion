@@ -19,3 +19,4 @@ figuras: unifiedCollectibles,
 
 //console.log(collectibles);
 collectibles.listFigures();
+console.log("asdlalala")
